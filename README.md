@@ -21,7 +21,7 @@
 [![Open on phiUture](https://img.shields.io/badge/Open_on-phiUture-000000?style=for-the-badge)](https://phiuture.com/tech/theacepirant)
 
 ![status Prototype](https://img.shields.io/badge/status-Prototype-8250DF?style=flat-square)
-[![license Apache 2.0](https://img.shields.io/badge/license-Apache_2.0-0A84FF?style=flat-square)](LICENSE)
+[![license Proprietary](https://img.shields.io/badge/license-Proprietary-555555?style=flat-square)](LICENSE)
 ![launched 2025](https://img.shields.io/badge/launched-2025-7C3AED?style=flat-square)
 
 <br/>
@@ -302,9 +302,14 @@ Build TheAcepirant into a scalable AI-first motivational media brand capable of 
 
 ## License
 
-Licensed under the **Apache License 2.0** — see [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE).
+**Proprietary — Copyright © 2025 Bitan Paul, phiUture Tech. All Rights Reserved.**
 
-Copyright © 2025 Bitan Paul, phiUture. All Rights Reserved.
+TheAcepirant is proprietary software owned by phiUture Tech. Its source code is published here to be
+read, not reused: no part of it may be copied, modified, distributed or used to create derivative
+work without prior written permission.
+
+See [`LICENSE`](LICENSE) for the full terms, and write to
+[thephiuture@gmail.com](mailto:thephiuture@gmail.com) for permissions.
 
 ---
 
@@ -354,6 +359,6 @@ Technology Follows.* — makes original music and film.
 
 **phiUture Tech** · *Thoughtfully Engineered. Crafted for You.*
 
-<sub>© 2025 phiUture · Apache License 2.0</sub>
+<sub>© 2025 phiUture Tech · All Rights Reserved</sub>
 
 </div>
