@@ -1,14 +1,40 @@
+<div align="center">
+
+<a href="https://phiuture.com/tech">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/b0tb1mho/image/upload/v1794310202/ymqwl9jz0hpsmdoegmwx.png" />
+    <img src="https://res.cloudinary.com/b0tb1mho/image/upload/b_black,r_24/v1794310202/ymqwl9jz0hpsmdoegmwx.png" alt="phiUture Tech" width="220" />
+  </picture>
+</a>
+
+<em>Thoughtfully Engineered. Crafted for You.</em>
+
+<br/><br/>
+
+<img src="https://res.cloudinary.com/b0tb1mho/image/upload/v1784621133/cp95wwkegrj6lii3laty.webp" alt="TheAcepirant icon" width="96" />
+
 # TheAcepirant
 
-> An AI-powered motivational media engine that never stops creating.
+### *An AI-powered motivational media engine that never stops creating.*
 
-<img alt="Hero Image" src="https://res.cloudinary.com/b0tb1mho/image/upload/v1784621250/vf3zn5acvemnopmyjkci.webp"/>
+[![Watch the demo](https://img.shields.io/badge/Watch-the_demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/XJHugJ0Fdqc?si=J8aDyvLcbJ67w7lL)
+[![Open on phiUture](https://img.shields.io/badge/Open_on-phiUture-000000?style=for-the-badge)](https://phiuture.com/tech/theacepirant)
 
-TheAcepirant is a fully automated AI-powered content creation engine that continuously discovers motivational stories, transforms them into engaging narrated short-form videos, and publishes them across **YouTube Shorts, Instagram Reels, and Facebook Reels** with almost no human intervention.
+![status Prototype](https://img.shields.io/badge/status-Prototype-8250DF?style=flat-square)
+[![license Apache 2.0](https://img.shields.io/badge/license-Apache_2.0-0A84FF?style=flat-square)](LICENSE)
+![launched 2025](https://img.shields.io/badge/launched-2025-7C3AED?style=flat-square)
+
+<br/>
+
+<img src="https://res.cloudinary.com/b0tb1mho/image/upload/v1784621250/vf3zn5acvemnopmyjkci.webp" alt="TheAcepirant — a phiUture Tech product" width="100%" />
+
+</div>
 
 ---
 
 ## Overview
+
+TheAcepirant is a fully automated AI-powered content creation engine that continuously discovers motivational stories, transforms them into engaging narrated short-form videos, and publishes them across **YouTube Shorts, Instagram Reels, and Facebook Reels** with almost no human intervention.
 
 Creating motivational short-form content consistently requires:
 
@@ -39,10 +65,9 @@ TheAcepirant automates the entire workflow—from content discovery to publishin
 - Scheduled Automation Every 4 Hours
 - Structured AI Output Parsing
 
-
 ---
 
-## Live Channels
+## Live channels
 
 <div align="center">
 
@@ -52,7 +77,6 @@ TheAcepirant automates the entire workflow—from content discovery to publishin
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thebitanpaul/theacepirant)
 
 </div>
-
 
 ## Gallery
 
@@ -80,7 +104,7 @@ TheAcepirant automates the entire workflow—from content discovery to publishin
 
 ---
 
-## Tech Stack
+## Tech stack
 
 - n8n
 - Google Gemini
@@ -95,7 +119,7 @@ TheAcepirant automates the entire workflow—from content discovery to publishin
 
 ---
 
-## Workflow Architecture
+## Workflow architecture
 
 ```
 Schedule Trigger
@@ -135,7 +159,7 @@ Cleanup Temporary Files
 
 ---
 
-## Complete Workflow
+## Complete workflow
 
 1. Trigger automatically every four hours.
 2. Fetch trending motivational stories from Reddit.
@@ -152,7 +176,7 @@ Cleanup Temporary Files
 
 ---
 
-## Data Flow
+## Data flow
 
 ```
 Schedule Trigger
@@ -196,7 +220,7 @@ Cleanup
 
 ---
 
-## Project Metrics
+## Project metrics
 
 | Metric | Value |
 |---------|------:|
@@ -254,7 +278,7 @@ A scheduled n8n workflow orchestrates the entire automation pipeline by retrievi
 
 ---
 
-## Key Findings
+## Key findings
 
 - Reddit consistently provides authentic motivational stories.
 - AI rewriting improves narration quality.
@@ -276,58 +300,60 @@ Build TheAcepirant into a scalable AI-first motivational media brand capable of 
 
 ---
 
-## Status
-
-**Prototype**
-
----
-
-## Year
-
-2025
-
----
-
 ## License
 
-This project is licensed under the [Apache-2.0](LICENSE).  
-See the LICENSE file for full license text.
+Licensed under the **Apache License 2.0** — see [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE).
+
+Copyright © 2025 Bitan Paul, phiUture. All Rights Reserved.
 
 ---
 
-## About phiUture
+## About phiUture Tech
 
-Welcome to phiUture — Beautiful Technology. Centered Around You. Shaping Tomorrow.
+**TheAcepirant** is built by **[phiUture Tech](https://phiuture.com/tech)** — *Thoughtfully Engineered. Crafted for You.*
 
-Inspired by the Golden Ratio (φ), our name represents beautiful, intelligent engineering, while the "U" stands for You—placing people at the center of every solution we build.
+phiUture Tech is the software half of **[phiUture](https://phiuture.com)** — *Technically Creative.* —
+an independent studio with one vision: *Shaping the future for you through technology and creativity.*
+The name is the philosophy: **φ**, the golden ratio, for craft and balance, and **U** for you — the
+person every product is built around. *Thoughtfully Engineered.* means every product is designed
+before it is built; *Crafted for You.* means the engineering exists so the experience feels effortless.
 
-phiUture is an AI-first software company creating intelligent products, automation systems, and modern digital experiences. This channel documents the journey of building practical AI solutions, from concept to deployment.
+phiUture Tech builds AI & data products, agentic systems, automation, applications, research and
+games. Its sister half, **[phiUture Studios](https://phiuture.com/studios)** — *Entertainment First.
+Technology Follows.* — makes original music and film.
 
-```
-Here you'll find:
-• AI applications and product demos
-• AI agents and automation workflows
-• Web and mobile app showcases
-• Machine Learning and Data Engineering projects
-• Product launches and development insights
-• UI/UX and software engineering content
-• Tutorials, experiments, and future innovations
-```
+<div align="center">
+
+[![Explore phiUture Tech](https://img.shields.io/badge/Explore-phiUture_Tech-000000?style=for-the-badge)](https://phiuture.com/tech)
+[![YouTube @phiuture](https://img.shields.io/badge/YouTube-%40phiuture-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@phiuture)
+[![GitHub thebitanpaul](https://img.shields.io/badge/GitHub-thebitanpaul-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thebitanpaul)
+[![Business email](https://img.shields.io/badge/Business-thephiuture%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thephiuture@gmail.com)
+
+</div>
+
+<details>
+<summary><b>Every phiUture link</b></summary>
+
+<br/>
 
 | Personal | Business | Artist |
 |----------|----------|--------|
 | [![GitHub](https://img.shields.io/badge/GitHub-thebitanpaul-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thebitanpaul) | [![Website](https://img.shields.io/badge/Website-phiUture-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://phiuture.com) | [![YouTube](https://img.shields.io/badge/YouTube-thebitanpaul-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@thebitanpaul) |
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-thebitanpaul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thebitanpaul) | [![YouTube](https://img.shields.io/badge/YouTube-phiUture-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@phiuture) | [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/6ghDcCBlKzJIgm3e586jpV) |
-| [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thebitanpaul) | [![Google Play](https://img.shields.io/badge/Google_Play-Developer-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=6358474525178045834&hl=en) | [![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white)](https://music.youtube.com/playlist?list=OLAK5uy_km3cjEB2zl59Etcgv9UBKWw800O9G3NdE) |
+| [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thebitanpaul) [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@thebitanpaul) | [![Google Play](https://img.shields.io/badge/Google_Play-Developer-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=6358474525178045834&hl=en) | [![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white)](https://music.youtube.com/playlist?list=OLAK5uy_km3cjEB2zl59Etcgv9UBKWw800O9G3NdE) |
 | [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/thebitanpaul) | [![Email](https://img.shields.io/badge/Business_Email-thephiuture%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thephiuture@gmail.com) | [![Amazon Music](https://img.shields.io/badge/Amazon_Music-46C3D0?style=for-the-badge&logo=amazonmusic&logoColor=white)](https://music.amazon.com/albums/B0G52QMYDC) |
 | [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thebitanpaul_) |  | [![Apple Music](https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&logo=applemusic&logoColor=white)](https://music.apple.com/us/artist/thebitanpaul/1858534880) |
 | [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=000000)](https://snapchat.com/t/UgO0Iywr) |  | [![JioSaavn](https://img.shields.io/badge/JioSaavn-2BC5B4?style=for-the-badge&logo=jiosaavn&logoColor=white)](https://www.jiosaavn.com/artist/thebitanpaul-songs/zuo0NgC65gQ_) |
 | [![Email](https://img.shields.io/badge/Personal_Email-thebitanpaul%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thebitanpaul@gmail.com) |  |  |
 
----
+</details>
+
+<br/>
 
 <div align="center">
 
-**2026 · © phiUture · All Rights Reserved**
+**phiUture Tech** · *Thoughtfully Engineered. Crafted for You.*
+
+<sub>© 2025 phiUture · Apache License 2.0</sub>
 
 </div>
